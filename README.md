@@ -57,6 +57,13 @@ cluster on AWS.
 
 ------
 
+
+## Kubernetes versions with published AMIs
+
+See [amis] for the list of most recently published AMIs.
+
+------
+
 ## Compatibility with Cluster API and Kubernetes Versions
 
 This provider's versions are compatible with the following versions of Cluster API
@@ -72,11 +79,6 @@ and support all Kubernetes versions that is supported by its compatible Cluster 
 
 ------
 
-## Kubernetes versions with published AMIs
-
-See [amis] for the list of most recently published AMIs.
-
-------
 
 ## clusterawsadm
 
